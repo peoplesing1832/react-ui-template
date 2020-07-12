@@ -1,0 +1,3 @@
+- e_1 全量引入UI库
+- e_2 使用babel-plugin-import插件实现按需引入
+- e_3 使用es模块的树摇实现按需引入

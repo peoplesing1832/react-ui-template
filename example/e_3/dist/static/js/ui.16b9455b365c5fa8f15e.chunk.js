@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{DVSe:function(n,i,o){"use strict";o.d(i,"a",(function(){return e}));var t=o("ivGQ"),c=function(){},e=function(n){var i=n.onClick,o=void 0===i?c:i,e=n.children;return t.createElement("div",{className:"button",role:"button",onClick:function(n){o(n)}},e)}},ciLW:function(n,i,o){}}]);
